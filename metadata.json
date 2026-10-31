@@ -1,0 +1,6 @@
+{
+  "name": "CCTV Jogja Istimewa Live",
+  "description": "Pantau siaran langsung 600+ titik CCTV se-Daerah Istimewa Yogyakarta (Sleman, Kota Jogja, Bantul, Gunungkidul, Kulon Progo) secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
